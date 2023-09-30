@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldbadge.Data", "Goldbadge.Data\Goldbadge.Data.csproj", "{F3117333-8483-4AAC-884F-07F3ACDF3AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadge.Repository", "GoldBadge.Repository\GoldBadge.Repository.csproj", "{434F48D2-F0C9-45BD-92FD-92F3FAEBF588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldBadge.UI", "GoldBadge.UI\GoldBadge.UI.csproj", "{32AFDCE2-91F8-4B37-9CE7-0EBB9703B319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3117333-8483-4AAC-884F-07F3ACDF3AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3117333-8483-4AAC-884F-07F3ACDF3AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3117333-8483-4AAC-884F-07F3ACDF3AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3117333-8483-4AAC-884F-07F3ACDF3AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{434F48D2-F0C9-45BD-92FD-92F3FAEBF588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{434F48D2-F0C9-45BD-92FD-92F3FAEBF588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{434F48D2-F0C9-45BD-92FD-92F3FAEBF588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{434F48D2-F0C9-45BD-92FD-92F3FAEBF588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AFDCE2-91F8-4B37-9CE7-0EBB9703B319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AFDCE2-91F8-4B37-9CE7-0EBB9703B319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AFDCE2-91F8-4B37-9CE7-0EBB9703B319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AFDCE2-91F8-4B37-9CE7-0EBB9703B319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

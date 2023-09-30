@@ -1,0 +1,15 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\bin\Debug\net7.0\GoldBadge.Repository.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\bin\Debug\net7.0\GoldBadge.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\bin\Debug\net7.0\GoldBadge.Repository.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\bin\Debug\net7.0\Goldbadge.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\bin\Debug\net7.0\Goldbadge.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.csproj.AssemblyReference.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.csproj.CopyComplete
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\refint\GoldBadge.Repository.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\GoldBadge.Repository.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\GoldBadge.Repository\obj\Debug\net7.0\ref\GoldBadge.Repository.dll

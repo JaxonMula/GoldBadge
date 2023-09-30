@@ -1,0 +1,11 @@
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\bin\Debug\net7.0\Goldbadge.Data.deps.json
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\bin\Debug\net7.0\Goldbadge.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\bin\Debug\net7.0\Goldbadge.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\Goldbadge.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\Goldbadge.Data.AssemblyInfoInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\Goldbadge.Data.AssemblyInfo.cs
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\Goldbadge.Data.csproj.CoreCompileInputs.cache
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\Goldbadge.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\refint\Goldbadge.Data.dll
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\Goldbadge.Data.pdb
+C:\Users\jmula\Desktop\ElevenFiftyProjects\codingFoundations\dotnetProjects\assignments\GoldBadge\Goldbadge.Data\obj\Debug\net7.0\ref\Goldbadge.Data.dll

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GoldBadge.UI/1.0.0": {
+        "dependencies": {
+          "GoldBadge.Repository": "1.0.0",
+          "Goldbadge.Data": "1.0.0"
+        },
+        "runtime": {
+          "GoldBadge.UI.dll": {}
+        }
+      },
+      "Goldbadge.Data/1.0.0": {
+        "runtime": {
+          "Goldbadge.Data.dll": {}
+        }
+      },
+      "GoldBadge.Repository/1.0.0": {
+        "dependencies": {
+          "Goldbadge.Data": "1.0.0"
+        },
+        "runtime": {
+          "GoldBadge.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoldBadge.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Goldbadge.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoldBadge.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
